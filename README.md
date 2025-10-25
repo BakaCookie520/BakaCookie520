@@ -14,5 +14,7 @@
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BakaCookie520&langs_count=8&card_width=472&theme=transparent&locale=cn" />
 </a>
 
-<ul>
-<li><a target="_blank" href="https://vip.123pan.cn/1815812033/yk6baz03t0m000d7w33gjeykygv7hlkcDIYPAIYPDqawDvxPAdQOAY==.png">（星野赛高！</a></li>
+(星野赛高！！
+<img width="2590" height="2056" alt="136657363_p0" src="https://github.com/user-attachments/assets/b1015ad1-4913-4f3d-8b97-69405ac51729" />
+
+
