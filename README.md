@@ -3,6 +3,7 @@
 <p>请叫我饼干或者饼干ちゃん，初次见面，请多指教呀~</p>
 <p>饼干是一名在校高一学生，会用课余时间来钻研一些简单的小东西，也经常提交一些小PR，希望高中毕业之后可以去进修网络通信专业</p>
 <p>没有什么天才少年的传奇经历，只是一枚普普通通的学生罢了~</p>
+<img src="https://count.getloli.com/@BakaCookie520?theme=booru-qualityhentais"/>
 <h2>🚀 我使用的语言</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
