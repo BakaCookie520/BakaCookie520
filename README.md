@@ -1,4 +1,4 @@
-<h1>你好，我是BakaCookie520</h1>
+<h1>👋 你好，我是BakaCookie520</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1B3F7&width=435&lines=%22%E5%9B%A0%E6%AD%A4%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%AF%80%E5%88%AB%EF%BC%8C%E8%80%8C%E6%98%AF%E4%BA%92%E9%81%93%E2%8C%88%E6%98%8E%E5%A4%A9%E8%A7%81%E2%8C%8B%22" alt="Typing SVG" /></a>
 <p>请叫我饼干或者饼干ちゃん，初次见面，请多指教呀~</p>
 <p>饼干是一名在校高一学生，会用课余时间来钻研一些简单的小东西，也经常提交一些小PR，希望高中毕业之后可以去进修网络通信专业</p>
@@ -28,7 +28,9 @@
 </picture>
 
 # (星野赛高！！
-![87385c050901e2f28c896ce9e8d937f1](https://github.com/user-attachments/assets/04f938c9-b44e-45c7-bc13-2a3f35ad794f)
+
+<img width="1671" height="1200" alt="114099138_p0" src="https://github.com/user-attachments/assets/9c1ea1b7-0103-42a5-87c1-59f3793d69a0" />
+
 
 
 
