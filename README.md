@@ -28,6 +28,7 @@
 </picture>
 
 # (星野赛高！！
-<img width="633" height="502" alt="136657363_p0" src="[https://github.com/user-attachments/assets/b1015ad1-4913-4f3d-8b97-69405ac51729](https://random-image-api.bakacookie520.top/pc)" />
+![87385c050901e2f28c896ce9e8d937f1](https://github.com/user-attachments/assets/04f938c9-b44e-45c7-bc13-2a3f35ad794f)
+
 
 
