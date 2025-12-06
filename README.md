@@ -16,7 +16,7 @@
   <img height=200 align="center" src="https://github-readme-stats-azure-alpha-60.vercel.app/api?username=BakaCookie520&theme=transparent&locale=cn" />
 </a>
 <a href="https://github.com/BakaCookie520/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BakaCookie520&langs_count=8&card_width=472&theme=transparent&locale=cn" />
+  <img height=195 align="center" src="https://github-readme-stats-azure-alpha-60.vercel.app/api/top-langs?username=BakaCookie520&langs_count=8&card_width=472&theme=transparent&locale=cn" />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BakaCookie520&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
