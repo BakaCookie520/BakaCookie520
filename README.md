@@ -13,7 +13,7 @@
 
 
 <a href="https://github.com/BakaCookie520/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-bsy1fsfki-bakacookies-projects.vercel.app/api?username=BakaCookie520&theme=transparent&locale=cn" />
+  <img height=200 align="center" src="https://github-readme-stats-azure-alpha-60.vercel.app/api?username=BakaCookie520&theme=transparent&locale=cn" />
 </a>
 <a href="https://github.com/BakaCookie520/convoychat">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BakaCookie520&langs_count=8&card_width=472&theme=transparent&locale=cn" />
