@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1B3F7&width=435&lines=%22%E5%9B%A0%E6%AD%A4%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%AF%80%E5%88%AB%EF%BC%8C%E8%80%8C%E6%98%AF%E4%BA%92%E9%81%93%E2%8C%88%E6%98%8E%E5%A4%A9%E8%A7%81%E2%8C%8B%22" alt="Typing SVG" />
 </a>
 
+<br />
+
+### 👀 访客统计
+
 <img src="https://count.getloli.com/@BakaCookie520?theme=booru-qualityhentais" alt="Visitor Count" />
 
 </div>
