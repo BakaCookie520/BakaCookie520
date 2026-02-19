@@ -10,7 +10,7 @@
 
 ### 👀 访客统计
 
-<img src="https://count.getloli.com/@BakaCookie520?theme=booru-qualityhentais" alt="Visitor Count" />
+<img src="https://count.getloli.com/@BakaCookie520?theme=moebooru" alt="Visitor Count" />
 
 </div>
 
